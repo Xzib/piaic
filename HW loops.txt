@@ -1,0 +1,3 @@
+take an input from number and tell weather its prime or not
+remove all appearences of some value from list
+take input from number and print table

@@ -1,0 +1,6 @@
+#list =list(range(2,10)) 
+#print(list)
+#lst = list (range(10,0,-1))
+#print (lst)
+lst = list (range(3,100,3))
+print (lst)
