@@ -1,5 +1,4 @@
 lst = [1,2,3,4,5,6]
-
 print("with for loop")
 for i in lst:
     print(i)

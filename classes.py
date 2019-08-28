@@ -23,10 +23,9 @@ print(new_patient.age)
 #  print(new_patient.name)
 #  print(new_patient_2.name)
 new_patient.alter_age(4)
-print(new_patient.age)
-
-print(new_patient.__abc = "jsaim")
-new_patient.blah()
+# print(new_patient.age)
+# print(new_patient.__abc = "jsaim")
+# new_patient.blah()
 
 
         #string formatting
